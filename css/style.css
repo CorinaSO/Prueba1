@@ -1,0 +1,9 @@
+[lang|='es']{
+    font-weight: bold;
+}
+[data-quantity$='kg']{
+    font-weight: bold;
+}
+[data-type~='liquid']{
+    color: green;
+}
