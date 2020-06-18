@@ -1,0 +1,50 @@
+/* [lang|='es']{
+    font-weight: bold;
+}
+[data-quantity$='kg']{
+    font-weight: bold;
+}
+[data-type~='liquid']{
+    color: green;
+}
+a:hover{
+    color: darkred;
+    font-size: 20px;
+}
+article > h2{
+    color: grey;
+}
+input{
+    display: block;
+}
+input:focus{
+    background: green;
+}
+
+//Ejemplo porcentajes 
+div{
+    margin: 10px;
+    font-size: 200%;
+    color: red;
+    height: 150px;
+    border: 2px solid black;
+}
+div:nth-child(2){
+    background-color: blue;
+    width: 75%;
+} */
+div {
+    border-radius: 0.4em;
+}
+
+.div1 {
+    color: darkred;
+    font-size: 20px;
+    border: 6px solid grey; 
+}
+
+.dvi2{
+    height: 50px;
+    width: 100px;
+    margin-left: 10px;
+}

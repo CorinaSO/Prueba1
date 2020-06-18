@@ -1,9 +1,13 @@
-[lang|='es']{
-    font-weight: bold;
+div{
+    background-color: blue;
+    height: 60px;
+    width: 140px;
+    border: 8px solid green;
+    padding: 15px;
 }
-[data-quantity$='kg']{
-    font-weight: bold;
+.border{
+    box-sizing: border-box;
 }
-[data-type~='liquid']{
-    color: green;
+.content{
+    box-sizing: content-box;
 }
