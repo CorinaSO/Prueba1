@@ -10,4 +10,5 @@ div{
 }
 .content{
     box-sizing: content-box;
+    color: white;
 }
